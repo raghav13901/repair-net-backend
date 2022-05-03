@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "repairnet-74117",
+  "private_key_id": "046770d2b6ad5f33c46768ca81ecb0c502f0bbf2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWnrqyHztGd2hI\n7v35MqAY09NorBjgg3QUfGN0GjuIRgu/Vb+1va/uROQUs0ZozJVOBHXVlgBxsbts\nn47b5Z/XPsaNGpvAluUTJJgDkPczsQNiCQITPaFiE0z1RMYTv7t0aNblX23/waTe\nPRPMCURp3rmrWurPo9tcA3P8Ir2azVlT+WmauFUdOJVPtgw4dAzrMqNUcQbz62hC\nWL/nYsUtzvgdLxjVhlNL6yTUoZnBBMCU1GVYVuUxDd2qPdQrtPy790EG2B06wE3D\ngUaZ9fhJtBdJdUOL8IVlWDGRNogAdfnzG7NtT+n0hm6z9KLoco05ECzY3MINjd6L\nEKqOYZxPAgMBAAECggEAP58DiEql7JFyhOAiejj2pBYRphSPm4IbLa4PClMsU1cX\nDjZnuJpLrm7+EnpZYtoLtP0wUsw+GsgyvWK2Ys8fEbnr/10+bf6u+0OJTHRW3shG\nAAqDDGKLgRRa/P0UV/I0earxHskM+yut+su8yYIemkOglK9eIN/7P+Ybf2SjRzgQ\n6zLPW7itcNJxVYGOCSCrVUMvUJuOsFzlZUxulJAOhba4/OQnTXNHY/ejAXouZ4Ix\na6J3b9lNlmqSQYVaeG9Vzr1YXN+1Cqt16cvfBjs9TQMMF91ktdkJcN7uctVNm8Zd\nhUCBdvCkyCoJGyzJMD8AuiVz7tLUa/KDSuoSv2K0OQKBgQDRM9YII80w2OCg5E17\n1WuK3lUoJSsIkiD79AKrhoSp3cyDgMHlyRjXJr8FAp9AY+2Sg6AiCv04FkTrYzju\ng63fmvlZunSQGyVG6sWvZLwSPa1eZswgw4eeOlE3yq48QtRpyFEdEA24x4LqaRxr\nxIt8q91BY2GXWSNqQWKhSQ1DiQKBgQC4UB4tqJQVBte6o+m9irHfARxz7CjF1Aum\nQ6gfMsHYSYUiF7O09HYiDmd7JSiHhZlqjuG3k0/Lq8KN/Cv0dZQid/9gqKhH9f2l\n9eNhcNNFkag/HLtbmT5+sotlPHdb9LX0zeu/Z/r0cXZhVFRBnhwEcLbaA+E0Memh\nnI8jWYpzFwKBgQCUgeKvNpMD2QFk1Yy3mqJUG06CSBhLZkip8ucuUji8ySnUNEPw\n1hefK+8wJFNeh1Fvz6aOZBSriwtzuaUBlFKKyF24N6dlYQ/OTvz0bGMh48y9leXU\nYFlWlnlvTJ7xQlO9oCkMo4fKIz8pHmLBke2fG/Xd5Cm0IeAFHtNgQRZ8WQKBgA9u\nbchm19cW1pMCzDwZU6EXJ7mw6Qz/HuaRvY63IjGoniPnlh0tZoKdcB6IUudd0SVx\nxwYmqESmIcjfdxKlkXx9TX1bQZOczdrKRnpPBvFJK6v1DN6zat8StccJE/k3+NAB\nOZ6x5vn2UfH+LHu98ByTD0wbjQxgrW3hfL557bSLAoGAaOU1Tb5SDCqAo5ROxxb+\nePJ0x/mGv9eZjOJstLLVLeHgG6/Tt8imTeJn+hWB1/4DDNIYfUZdVA/vDPQ5sruX\nLBY4oRCFWPdf4at8ACdsi4IZKD8XpKLFIzJZvRS6WB1RH7Q4E08O9NMvqIJU5clm\naQekfpTd9E+0MTpC/AR/dho=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-mq9bu@repairnet-74117.iam.gserviceaccount.com",
+  "client_id": "107105383399079539068",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-mq9bu%40repairnet-74117.iam.gserviceaccount.com"
+}
